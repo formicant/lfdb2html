@@ -1,3 +1,10 @@
+# Data files
+*.7z
+*.sqlite*
+
+# Output files
+*.html
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
